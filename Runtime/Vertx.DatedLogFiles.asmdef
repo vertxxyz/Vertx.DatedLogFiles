@@ -1,0 +1,14 @@
+{
+    "name": "Vertx.DatedLogFiles",
+    "rootNamespace": "Vertx.DatedLogFiles",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
